@@ -18,4 +18,4 @@ var bear = {
     maxOfSpring: 3,
     noisy: true,
     deadly: true
-}
+};
